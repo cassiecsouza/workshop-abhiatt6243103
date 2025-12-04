@@ -1,7 +1,7 @@
 apiVersion: argoproj.io/v1alpha1
 kind: ApplicationSet
 metadata:
-  name: frontend-appset-<add unique username>
+  name: frontend-appset-abhiatt6243103
 spec:
   generators:
     - git:
